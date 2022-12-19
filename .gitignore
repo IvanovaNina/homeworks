@@ -1,2 +1,3 @@
 .idea
 /homework4/file.txt
+*/__pycache__
